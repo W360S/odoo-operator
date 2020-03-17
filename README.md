@@ -1,9 +1,25 @@
-# Odoo Operator 
+# Initial page
 
-(leveraging the [kubebuilder](https://book.kubebuilder.io))
+## Getting Super Powers
 
-Run OdooInstances professionally at scale
+Becoming a super hero is a fairly straight forward process:
 
-This is in early alpha. If you find this interesting, please star/watch to keep updated. We expect to iterate very rapidly until reaching beta in the coming days/week.
+```
+$ give me super-powers
+```
 
-If you want to discuss all things Odoo on Moby, please join https://t.me/joinchat/ILnVJw7s3ZvKL3mI7AACsw
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+{% endcode %}
+
+
+
